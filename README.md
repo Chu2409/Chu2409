@@ -1,44 +1,71 @@
-<div align="center" width="50">
-   [Portfolio](https://chu2409.github.io/cv/)
+<h2 align="left">Hi 👋! My name is Daniel Zhu and I'm a Software Engineer Student in Ecuador, </h2>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+- 🔭 Student of **Software Engineer** at Universidad Técnica de Ambato<br>
+- 🏡 Lives in **Ecuador**x</p>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Chu2409&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Daniel Zhu</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/Chu2409?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Chu2409?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Chu2409.repoName) <img src="https://komarev.com/ghpvc/?username=Chu2409" alt="Chu2409" />
+###
 
-## About Me :
+<h3 align="left">🛠 Language and tools</h3>
 
-- 🏢 I am currently learning Express with Typescript
-- 🏢 Student of **Software Engineer** at Universidad Técnica de Ambato
-- 🏡'Lives in **Ecuador**
+###
 
-<br>
+<img align="right" height="150" src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713109300/si_ywxg0f.gif" alt='cat inviting in' />
 
-## Connect with me ☕ :
+###
 
-<br>
+<div align="left">
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111085/html-svg_o8s3wi.svg" height="40" alt="html logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111155/css-svg_ej1axp.svg" height="40" alt="css logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111124/tailwind-svg_n6l2rn.svg" height="40" alt="tailwind logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111058/js-svg_kkeqru.svg" height="40" alt="javascript logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111059/ts-svg_qcaomj.svg" height="40" alt="typescript logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111067/react-svg_dyqn71.svg" height="40" alt="react logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111432/nextjs-svg_tg8crt.svg" height="40" alt="nextjs logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111080/nest-svg_hkyhuz.svg" height="40" alt="nestjs logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111084/java-svg_jfg2nt.svg" height="40" alt="java logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713111174/spring-svg_pqawo2.svg" height="40" alt="spring logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713112685/mysql-svg_sfdv2r.svg" height="40" alt="spring logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713112687/pg-svg_duzejz.svg" height="40" alt="spring logo"  />
+  <img src="https://res.cloudinary.com/dmwsrj7mm/image/upload/v1713112310/docker-svg_aftjw3.svg" height="40" alt="spring logo"  />
+</div>
 
-[![@chu_er_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@chu_er_")](https://www.instagram.com/chu_er_/) [![@Chu2409](https://img.icons8.com/fluency/48/000000/facebook.png "@Chu2409")](https://www.facebook.com/prfile.php?id=100081969771791) [![@chu_er_](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@chu_er_")](https://twitter.com/chu_er_)
-<br>
+###
 
-## What I am Good at 🧑‍💻 :
+<h3 align="left">☕ Social Networks</h3>
 
-<br>
+###
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+[![Daniel Zhu instagram profile](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/chu_er_/)
+[![Daniel Zhu facebook profile](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/profile.php?id=100081969771791)
+[![Daniel Zhu linkedin profile](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/daniel-zhu-645ba72b8/)
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+###
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chu2409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chu2409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+###
 
-<br>
+<br clear="both">
 
-## GitHub Stats 📈 :
+<img src="https://raw.githubusercontent.com/Chu2409/Chu2409/output/snake.svg" alt="Snake animation" />
 
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chu2409&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Chu2409 GitHub stats](https://github-readme-stats.vercel.app/api?username=Chu2409&theme=algolia)](https://github.com/Chu2409/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chu2409&theme=algolia)](https://github.com/Chu2409/github-readme-stats)
-
-<br>
-
+###
