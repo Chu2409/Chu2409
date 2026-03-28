@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering;Full+Stack+Developer;From+Ecuador+%F0%9F%87%AA%F0%9F%87%A8;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;From+Ecuador+%F0%9F%87%AA%F0%9F%87%A8;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 const daniel = {
   name: "Daniel Zhu",
   location: "Ecuador 🇪🇨",
-  education: "Software Engineering @ Universidad Técnica de Ambato",
+  education: "Software Engineer",
   currentFocus: "Full Stack Development",
   interests: ["Web Development", "Backend APIs", "Database Design"],
   funFact: "I like to play soccer and video games",
