@@ -23,7 +23,7 @@
 | --- | --- | --- |
 | **Point of sale for a retail shop** <br> <sub>In development · private</sub> | Sales, inventory, quotations, cash registers and branches, with electronic invoicing and real-time updates. | NestJS · Prisma · PostgreSQL · BullMQ · Next.js · Docker |
 | **NousAI** <br> <sub>AI-powered learning platform · private</sub> | Teachers generate lessons and quizzes with language models; students chat with an assistant that answers from the course content through semantic search. | NestJS · Prisma · PostgreSQL + pgvector · BullMQ · OpenAI · Vue |
-| **[D&L American Outlet](https://github.com/Chu2409/e-commerce)** <br> <sub>E-commerce · [live](https://dl-american-outlet.vercel.app)</sub> | Online store with catalog, filters and cart, plus an admin panel for products and orders. | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth |
+| **[D&L American Outlet](https://github.com/Chu2409/e-commerce)** <br> <sub>E-commerce</sub> | Online store with catalog, filters and cart, plus an admin panel for products and orders. | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth |
 
 More about my client work on [my portfolio](https://chuer.netlify.app/en/).
 
