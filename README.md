@@ -60,7 +60,3 @@ More about my client work on [my portfolio](https://chuer.netlify.app/en/).
 ![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white)
-
-<br>
-
-<img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Chu2409/Chu2409/output/snake.svg" />
