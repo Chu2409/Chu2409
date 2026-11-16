@@ -1,133 +1,70 @@
-<h1 align="center">Hey 👋 It's Daniel</h1>
+<h1 align="center">Daniel Zhu</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/chu-er/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/chu_er_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=dzhu2409@gmail.com&su=Hey+Daniel!&tf=cm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<p align="center">
+  <b>Full-stack software engineer</b> · Ecuador<br>
+  I build web applications, APIs and automation, from the database to the interface.
+</p>
 
-<br>
+<p align="center">
+  <a href="https://chuer.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6D4AFF?style=for-the-badge&logo=astro&logoColor=white" height="28" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/chu-er/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="mailto:dzhu2409@gmail.com"><img src="https://img.shields.io/badge/Email-17151F?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;From+Ecuador+%F0%9F%87%AA%F0%9F%87%A8;Always+learning+new+technologies" alt="Typing SVG" />
-</div>
+## What I'm doing now
 
-<br>
+- Full-stack developer at **Proconty**, building systems for financial services and audit clients with .NET, Angular and Oracle.
+- Project-based development for **AudiSupport**, currently a due diligence engine in Python that queries public sources in parallel, scores risk and generates the case file.
+- Open to new projects and opportunities.
 
-## 🚀 About me
+## Projects
 
-```typescript
-const daniel = {
-  name: "Daniel Zhu",
-  location: "Ecuador 🇪🇨",
-  education: "Software Engineer",
-  currentFocus: "Full Stack Development",
-  interests: ["Web Development", "Backend APIs", "Database Design"],
-  funFact: "I like to play soccer and video games",
-};
-```
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Point of sale for a retail shop** <br> <sub>In development · private</sub> | Sales, inventory, quotations, cash registers and branches, with electronic invoicing and real-time updates. | NestJS · Prisma · PostgreSQL · BullMQ · Next.js · Docker |
+| **NousAI** <br> <sub>AI-powered learning platform · private</sub> | Teachers generate lessons and quizzes with language models; students chat with an assistant that answers from the course content through semantic search. | NestJS · Prisma · PostgreSQL + pgvector · BullMQ · OpenAI · Vue |
+| **[D&L American Outlet](https://github.com/Chu2409/e-commerce)** <br> <sub>E-commerce · [live](https://dl-american-outlet.vercel.app)</sub> | Online store with catalog, filters and cart, plus an admin panel for products and orders. | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth |
 
-<br>
+More about my client work on [my portfolio](https://chuer.netlify.app/en/).
 
-## 💻 Tech Stack
+## Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" width="60" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" width="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" width="60" alt="tailwindcss logo"  />
-</div>
+**Backend**
 
-<br>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" width="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" width="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" width="60" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" width="60" alt="wordpress logo"  />
-</div>
+**Frontend**
 
-<br>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" width="60" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" width="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" width="60" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" width="60" alt="postgresql logo"  />
-</div>
+**Data**
 
-<br>
-<br>
+![Oracle](https://img.shields.io/badge/Oracle_·_PL%2FSQL-F80000?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-<br>
-<br>
+**Infrastructure and automation**
 
-## 📊 GitHub Stats
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white)
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chu2409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chu2409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chu2409&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div> -->
-
-<br>
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chu2409/Chu2409/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chu2409/Chu2409/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chu2409/Chu2409/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chu2409/Chu2409/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chu2409/Chu2409/output/github-snake.svg" />
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Chu2409/Chu2409/output/github-snake.svg" />
 </picture>
-
-<br>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chu2409&radius=16&theme=elegant&area=true&order=5&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-<br>
